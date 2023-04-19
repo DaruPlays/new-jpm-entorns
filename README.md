@@ -12,7 +12,7 @@ $ git remote add origin https://github.com/DaruPlays/new-jpm-entorns.git
 
 $ git push -u origin main 
 
-
+# Canvios linea merge local
 
 
  Canvi afegit al Github
