@@ -10,4 +10,10 @@ $ git remote add origin https://github.com/DaruPlays/new-jpm-entorns.git
 
 $ git push -u origin main 
 
+
+
+
  Canvi afegit al Github
+ 
+ 
+ Segon canvi afegit a remote
