@@ -17,3 +17,6 @@ $ git push -u origin main --> Canvios linea merge local
  
  
  Segon canvi afegit a remote
+
+
+Canvi afegit al branch
