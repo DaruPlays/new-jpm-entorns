@@ -1,8 +1,7 @@
-# Hello Worl2 -- Local --
+# Hello Worl2 -- Local  
 
 
-
-$ git add Readme.md
+$ git add Readme.md 
 
 $ git commit -m 'Primer Commit' --> puja el primer canvi amb aquest comentari
 
@@ -28,3 +27,6 @@ Segon canvi fet
 
 
 Canvi fet a main remot a la segona branca
+
+
+Canvis tercera branca
