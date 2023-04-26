@@ -1,4 +1,6 @@
-# Hello World 2
+# Hello Worl2 -- Local --
+
+
 
 $ git add Readme.md
 
@@ -8,12 +10,16 @@ $ git branch -M main
 
 $ git remote add origin https://github.com/DaruPlays/new-jpm-entorns.git
 
-$ git push -u origin main 
-
-
+$ git push -u origin main --> Canvios linea merge local
 
 
  Canvi afegit al Github
  
  
  Segon canvi afegit a remote
+
+
+Canvi afegit al branch: Primer canvi
+
+
+Segon canvi fet
